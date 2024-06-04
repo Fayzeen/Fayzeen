@@ -1,2 +1,2 @@
-- 👋 Hi, I’m @Fayzeen
-- 🌱 I’m currently learning Java
+- 👋 Hi, I’m **__@Fayzeen__**
+- 🌱 I’m currently learning **Java**
