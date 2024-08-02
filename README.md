@@ -1,3 +1,3 @@
-- 👋 Hi, I’m **__@Fayzeen__** 👋
-- ⚙️ I’m currently learning **Java** ⚙️
+- 👋 Hey, I’m **__@Fayzeen__** 👋
+- 🖥️ I’m currently learning **Java** & **C++** 🖥️
 - 🫳🔴 https://bento.me/fayzeen 🔵🫷
