@@ -2,6 +2,8 @@
 
 🌎 › 🇬🇵 🇲🇶
 <br>
-🌎 › French Studient
-👨‍🎓 › Learning **Java** + **C++**
+🇫🇷 › French Studient
+<br>
+⚙️ › Learning **Java** + **C++**
+<br>
 ✍️ › Work to became Engineer in Cybersecurity
