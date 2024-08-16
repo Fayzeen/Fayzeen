@@ -1,8 +1,6 @@
 # Fayzeen
 
-🌎 › 🇬🇵 🇲🇶
-<br>
-🇫🇷 › French Studient
+🎓 › French Studient
 <br>
 ⚙️ › Learning **Java** + **C++**
 <br>
