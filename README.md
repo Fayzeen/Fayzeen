@@ -4,4 +4,4 @@
 <br>
 ⚙️ › Learning **Java** + **C++**
 <br>
-✍️ › Work to became Engineer in Cybersecurity
+✍️ › Work to became **Engineer** in **Cybersecurity**
