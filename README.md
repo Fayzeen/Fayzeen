@@ -2,12 +2,10 @@
 
 # **»** `Informations`
 ## 🎓 › French Studient.
-<br>
-* ⚙️ › Learning **Java** + **C++**.
-<br>
-* ✍️ › Work to became **Engineer** in **Cybersecurity**.
+## ⚙️ › Learning **Java** + **C++**.
+## ✍️ › Work to became **Engineer** in **Cybersecurity**.
 
 ***
 
 # **»** `Compétences`
-* 💡 › Python
+## 💡 › Python
