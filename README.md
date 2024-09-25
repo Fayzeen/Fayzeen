@@ -2,7 +2,7 @@
 
 # **»** `Informations`
 ## 🎓 › French Studient.
-## ⚙️ › Learning **Java** + **C++**.
+## ⚙️ › Learning **Java** & **C++**.
 ## ✍️ › Work to became **Engineer** in **Cybersecurity**.
 
 ***
