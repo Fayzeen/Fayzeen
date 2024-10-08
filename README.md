@@ -1,7 +1,7 @@
 # Fayzeen
 
 # **»** `Informations`
-## 🎓 › French Studient.
+## 🎓 › French Student.
 ## ⚙️ › Learning **Java** & **C++**.
 ## ✍️ › Work to became **Engineer** in **Cybersecurity**.
 
