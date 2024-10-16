@@ -7,7 +7,7 @@
 
 <div align="center">
 <h2>🌐 Socials 🌐 </h2>
-<img width=30 src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&count_private=true&theme=react&border_radius=10" alt="Twitch"/>
+<img width=150 src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&count_private=true&theme=react&border_radius=10" alt="Twitch"/>
 <br/>
 </div>
 
