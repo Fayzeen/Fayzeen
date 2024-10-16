@@ -11,7 +11,7 @@
   <img width=105 src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&count_private=true&theme=react&border_radius=10" alt="Twitch"/>
   </a>
   <a href="https://x.com/mxtz10_" target="_blank">
-  <img width=105 src="http://www.w3.org/2000/svg&count_private=true&theme=react&border_radius=10" alt="Twitch"/>
+  <img width=105 src="http://www.w3.org/2000/svg" alt="Twitch"/>
   </a>
   
 <br/>
