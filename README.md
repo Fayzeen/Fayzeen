@@ -7,7 +7,7 @@
 
 <div align="center">
 <h2>🌐 Socials 🌐 </h2>
-<img width=390 src="[https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white](https://www.twitch.tv/fayzeen)" alt="Twitch"/>
+<img width=390 src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" alt="Twitch"/>
 <br/>
 </div>
 
