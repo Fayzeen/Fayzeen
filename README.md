@@ -6,10 +6,10 @@
 <h3 align="center"> I work to became Engineer in Cybersecurity and I from France 🇫🇷 </h3>
 
 <div align="center">
-🌐 Socials 🌐
- </div>
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GA2MWcNxyP) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/fayzeen) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mxtz10_) 
+ 🌐 Socials 🌐
+<img width=390 src="(https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GA2MWcNxyP)" alt="Discord"/>
 <br/>
+</div>
 
 
 # 💻 Tech Stack 💻
