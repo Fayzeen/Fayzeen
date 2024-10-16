@@ -6,7 +6,7 @@
 <h3 align="center"> I work to became Engineer in Cybersecurity and I from France 🇫🇷 </h3>
 
 <div align="center">
- 🌐 Socials 🌐
+<h2>🌐 Socials 🌐 </h2>
 <img width=390 src="(https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GA2MWcNxyP)" alt="Discord"/>
 <br/>
 </div>
