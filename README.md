@@ -17,7 +17,7 @@
 <div align="center">
 <h2>🃏 GitHub Commits 🃏 </h2>
 <br>
-<img alt="snake eating my contributions" src="https:/raw.githubusercontent.com/salesp07/salesp07/output/github-user-contribution.svg" />
+<img alt="snake eating my contributions" src="https:/raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-snake.svg" />
   
 <br><br><br>
 </div>
