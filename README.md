@@ -10,6 +10,11 @@
   <a href="https://x.com/mxtz10_" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twittter" />
   </a>
+  <p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jqgkwg5v5mqkgk2aks7rhzkdlq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffaa00&bar_color_cover=true" />
+  </a>
+  
 </div>
 <div align="center">
 <h2> 💻 Tech Stack 💻 </h2>
