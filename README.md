@@ -16,9 +16,11 @@
 </div>
 <div align="center">
 <h2> 💻 Tech Stack 💻 </h2>
-[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,github&theme=dark)](https://skillicons.dev)
-    </a>
-  </div>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,python,javascript,github&theme=dark" />
+  </a>
+</p>
 <div align="center">
 <h2>🃏 GitHub Commits 🃏 </h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fayzeen/fayzeen/output/github-contribution-grid-snake.svg" /> 
