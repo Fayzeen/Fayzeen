@@ -3,8 +3,14 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&color=F7F7F7&width=435&lines=++++++++Hi+%F0%9F%91%8B%2C+I'm+Matt%C3%A9o" alt="Typing SVG" /></a>
 </h1>
   <p align="center">
- I work to became Engineer in Cybersecurity 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=I'm+working+towards+becoming+a+cybersecurity+engineer." />
   </a>
+  <p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=17." />
+  </a>
+  </p>
 <div align="center">
 <h2>🌐 Socials 🌐 </h2>
   <a href="https://x.com/mxtz10_" target="_blank">
