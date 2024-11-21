@@ -16,7 +16,7 @@
 </div>
 <div align="center">
 <h2> 💻 Tech Stack 💻 </h2>
-![Skill](https://skillicons.dev/icons?i=java,python,javascript,github&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,github&theme=dark)](https://skillicons.dev)
     </a>
   </div>
 <div align="center">
