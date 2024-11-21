@@ -4,7 +4,7 @@
 </h1>
   <p align="center">
   <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1I%work%to%became%Engineer%in%Cybersecurity👨‍💻&width=800&height=400" />
+    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1I%work%to%became%Engineer%in%Cybersecurity👨‍💻&width=200&height=50" />
   </a>
 <div align="center">
 <h2>🌐 Socials 🌐 </h2>
