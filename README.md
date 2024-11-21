@@ -1,12 +1,10 @@
 <h1 align="center">
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&color=F7F7F7&width=435&lines=++++++++Hi+%F0%9F%91%8B%2C+I'm+Matt%C3%A9o" alt="Typing SVG" /></a>
-<h1 align="center">
-   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=I'm+working+towards+becoming+a+cybersecurity+engineer." />
+</h1>
+  <p align="center">
+ I work to became Engineer in Cybersecurity 
   </a>
-   
-</div>
 <div align="center">
 <h2>🌐 Socials 🌐 </h2>
   <a href="https://x.com/mxtz10_" target="_blank">
@@ -16,6 +14,7 @@
   <a href="https://github.com/kittinan/spotify-github-profile">
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31jqgkwg5v5mqkgk2aks7rhzkdlq&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=false&bar_color=ffaa00&bar_color_cover=true" />
   </a>
+  </p>
   
 </div>
 <div align="center">
