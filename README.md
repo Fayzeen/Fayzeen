@@ -8,10 +8,10 @@
 <div align="center">
 <h2>🌐 Socials 🌐 </h2>
   <a href="https://www.twitch.tv/fayzeen" target="_blank">
-  <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&count_private=true&theme=react&border_radius=10" alt="Twitch" style="width:100px; height:30px;"/>
+  <img src="https://www.flaticon.com/fr/icone-gratuite/tic_13170668?term=twitch&page=1&position=2&origin=search&related_id=13170668" alt="Twitch" />
   </a>
   <a href="https://x.com/mxtz10_" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&count_private=true&theme=react&border_radius=10" alt="Twittter" style="width:100px; height:30px;"/>
+  <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twittter" />
   </a>
 </div>
 <div align="center">
