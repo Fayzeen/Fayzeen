@@ -3,8 +3,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&pause=1000&color=F7F7F7&width=435&lines=++++++++Hi+%F0%9F%91%8B%2C+I'm+Matt%C3%A9o" alt="Typing SVG" /></a>
 </h1>
   <p align="center">
-  <a href="https://github.com/Akshay090/svg-banners">
-    <img src="https://svg-banners.vercel.app/api?type=typeWriter&text1I%work%to%became%Engineer%in%Cybersecurity👨‍💻&width=50&height=50" />
+  I work to became Engineer in Cybersecurity
   </a>
 <div align="center">
 <h2>🌐 Socials 🌐 </h2>
