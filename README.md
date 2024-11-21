@@ -7,9 +7,6 @@
 
 <div align="center">
 <h2>🌐 Socials 🌐 </h2>
-  <a href="https://www.twitch.tv/fayzeen" target="_blank">
-  <img src="https://www.flaticon.com/fr/icone-gratuite/tic_13170668?term=twitch&page=1&position=2&origin=search&related_id=13170668" alt="Twitch" />
-  </a>
   <a href="https://x.com/mxtz10_" target="_blank">
   <img src="https://skillicons.dev/icons?i=twitter&theme=light" alt="Twittter" />
   </a>
