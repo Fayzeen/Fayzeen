@@ -6,10 +6,6 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&pause=1000&color=F7F7F7&vCenter=true&width=500&height=60&lines=I'm+working+towards+becoming+a+cybersecurity+engineer." />
   </a>
-  <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=17." />
-  </a>
   </p>
 <div align="center">
 <h2>🌐 Socials 🌐 </h2>
