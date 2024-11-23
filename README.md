@@ -26,6 +26,13 @@
     <img src="https://skillicons.dev/icons?i=java,python,javascript,github,vscode&theme=dark" />
   </a>
 </p>
+  <div align="center">
+<h2> 💻 Tools 💻 </h2>
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=idea,vscode&theme=dark" />
+  </a>
+</p>
 <div align="center">
 <h2>🃏 GitHub Commits 🃏 </h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fayzeen/fayzeen/output/github-contribution-grid-snake.svg" /> 
