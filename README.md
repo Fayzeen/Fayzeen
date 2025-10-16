@@ -25,6 +25,8 @@
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
     <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+    <img src="https://img.shields.io/badge/Retype-1C1C1C?style=for-the-badge&logo=retype&logoColor=white" alt="Retype" />
+    <img src="https://img.shields.io/badge/GitBook-3884FF?style=for-the-badge&logo=gitbook&logoColor=white" alt="GitBook" />
   </p>
   <div align="center">
 <h2> 🔧 Tools 🔧 </h2>
