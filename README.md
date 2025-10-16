@@ -47,13 +47,6 @@
       alt="GitHub Streak Stats" 
     />
   </a>
-  <br /><br />
-  <a href="https://music-profile.rayriffy.com">
-    <img 
-      src="https://music-profile.rayriffy.com/theme/dark.svg?uid=001620.076aa6980fe44b5f838ab4368de2a418.1159" 
-      alt="Apple Music GitHub profile" 
-    />
-  </a>
 </div>
 
 ---
