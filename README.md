@@ -40,7 +40,7 @@
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fayzeen/fayzeen/output/github-contribution-grid-snake.svg" /> 
 </div>
 <div align="center">
-  <h2> 📊 Others 📊 </h2>
+  <h2> 📊 Github Stats 📊 </h2>
   <a href="https://git.io/streak-stats">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com/?user=Fayzeen&theme=dark&hide_border=false" 
