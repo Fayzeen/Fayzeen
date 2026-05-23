@@ -37,18 +37,6 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
   <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="VirtualBox" />
 </p>
-<div align="center">
-<h2>🃏 GitHub Commits 🃏 </h2>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/fayzeen/fayzeen/output/github-contribution-grid-snake.svg" /> 
-</div>
-<div align="center">
-  <h2> 📊 Github Stats 📊 </h2>
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=Fayzeen&theme=dark&hide_border=false" 
-      alt="GitHub Streak Stats" 
-    />
-  </a>
 </div>
 
 ---
